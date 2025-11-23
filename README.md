@@ -66,7 +66,7 @@ Developed by:MADHU.P    RegisterNumber:25012991
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![WhatsApp Image 2025-11-16 at 9 54 22 PM](https://github.com/user-attachments/assets/72a4ebc4-ebbf-4885-baa5-b389b47d57a3)
+![WhatsApp Image 2025-11-16 at 9 54 32 PM](https://github.com/user-attachments/assets/3397183f-934d-41f5-a626-13c230daa477)
 
 **RESULTS**
 Thus the given logic functions are implemented using and their operations are verified usng verilog programming.
